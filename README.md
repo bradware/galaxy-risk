@@ -1,2 +1,2 @@
-# cs2340-team8
+# Risk
 Web application of the board game Risk
